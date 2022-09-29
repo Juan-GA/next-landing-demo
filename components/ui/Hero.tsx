@@ -37,20 +37,20 @@ export const Hero = () => {
                         h1
                         css={{ display: 'inline' }}
                     >
-                        The modern landing page{' '}
+                        Description of{' '}
                     </Text>
                     <Text
                         h1
                         css={{ display: 'inline' }}
                     >
-                        for{' '}
+                        your{' '}
                     </Text>
                     <Text
                         h1
                         css={{ display: 'inline' }}
                         color='primary'
                     >
-                        React Developers
+                        business
                     </Text>
                 </Box>
 
@@ -62,8 +62,8 @@ export const Hero = () => {
                     size='$lg'
                     span
                 >
-                    The easiest way to build React Landing page in seconds. Save
-                    time and focus on your project.
+                    Do duis aliqua minim sint quis elit pariatur enim ad anim consequat officia excepteur.
+                    Ut dolore commodo deserunt incididunt magna labore. Anim occaecat sit proident aute id eu consectetur.
                 </Text>
             </Box>
 
